@@ -61,3 +61,6 @@ public class RacingWeek14
         System.out.println("Goodbye!");
     }
 }
+
+// Good job...make sure to read about implement interface.  
+// Also please try to overide toString() instead of  Truck.GetName() + ": Distance Travel= " + Truck.GetDistance() 
